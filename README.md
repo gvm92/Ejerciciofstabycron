@@ -8,7 +8,7 @@ A una máquina virtual de linux añadirle dos discos duros:
   - Crear las siguientes particiones:
     - Linux
     - NTFS
-    - Fat
+    - Fat  
 fstab:  
 ![fstab](fstab.png)  
 
