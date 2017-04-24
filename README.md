@@ -9,6 +9,7 @@ A una máquina virtual de linux añadirle dos discos duros:
     - Linux
     - NTFS
     - Fat  
+  
 fstab:  
 ![fstab](fstab.png)  
 
